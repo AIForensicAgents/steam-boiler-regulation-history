@@ -1,0 +1,640 @@
+US Deadly Events Database - Steam & Boiler Incidents
+Source: usdeadlyevents.com
+Extracted: 2026-03-13T00:02:35.962Z
+Total incidents found: 635
+
+When one or more flues inside a boiler collapse, can cause rupture, or explosion of the boiler and steam release.
+explosion, some from scalding from the released boiler steam, some from drowning and others from
+37. 1866 -- Feb 02, steamboat W.R. Carter boiler explosion, Miss. River, Isl. No. 98    --123-215
+45. 1838 -- Apr 25, steamboat Moselle boiler explosion and fire, near Cincinnati, OH     --81-200
+113. 1850 -- Dec 13, steamer-Tug Anglo-Norman boiler explosion, ~New Orleans, LA  --20-100
+115. 1852 -- Apr 09, steamboat Saluda boiler explosion, Missouri Riv., Lexington, MO --54-100
+144. 1844 -- Oct 23, steamer Lucy Walker boiler explosion, Ohio River ~New Albany, IN--56-80
+145. 1847 -- Dec 29, steamer A.N. Johnston boiler explosion, Ohio Riv., ~Maysville, KY --60-80
+146. 1855 -- Jan 27, steamboat Pearl boiler explosion, Sacramento River, Sacramento, CA --67-80
+158. 1871 -- Aug 27, steamboat Ocean Wave boiler explosion, Point Clear ~Mobile, AL  --34-75
+164. 1932 -- Sep 09, steamboat Observation boiler explosion, East River ~Riker’s Island NY--72
+168. 1859 -- Feb 27, steamer Princess boiler explosion/fire, MS River, ~Baton Rouge, LA--   70
+176. 1865 -- Oct 12, steamer Yosemite boiler explosion, Sacramento Riv., Rio Vista, CA --55-68
+191. 1852 -- Apr 03, steamboat Glencoe boiler explosion and fire, St. Louis, MO  --40-62
+200. 1830 -- Feb 24, steamboat Helen McGregor boiler explosion, MS riv., Memphis TN --33-60
+201. 1833 -- June 07, steamer Peruvian boiler explosion, MS River, ~New Orleans LA
+204. 1854 -- Jan 28, steamboat Georgia Fire (boiler explosion?), Lake Pontchartrain, LA--25-60
+207. 1859 -- Apr 24 steamer St. Nicholas boiler explosion/fire, MS Riv., 9m above Helena AR-~60
+210. 1867 -- Feb 17, Steamer David White boiler explosion, Miss. River ~Pt. Chicot, MS --35-60
+221. 1842 -- July 03, steamboat Edna boiler explosion, near mouth of MO River, MO   --     55
+224. 1925 -- Aug 18, steamer Mackinac boiler explosion, Narragansett Bay, RI            --     55
+228. 1848 -- Aug 12, steamer Edward Bates boiler explosion, Miss. River ~Hamburg, IL --     53
+have been confusion between this “event” and boiler explosion on steamboat David White 2-17-1867 at Point
+244. 1848 -- May 27, steamer H. Kenney boiler explosion, Tombigbee River, AL  --  8-50
+247. 1850 -- Oct 29, steamboat Sagamore boiler explosion, Central wharf, San Francisco, CA-30-50
+250. 1860 -- June 25, steamer Ben. W. Lewis boiler explosion/fire, Miss. River, Cairo, IL --23-50
+275. 1889 -- Oct 03, steamer Corona boiler explosion, Mississippi Riv., False River, LA --38-46
+314. 1835 -- May 15, steamboat Majestic boiler collapse/explosion, Memphis, TN --38-40
+316. 1843 -- Sep 19, steamboat Clipper No. 1 boiler explosion, MS Riv., Bayou Sara, LA--30-40
+322. 1852 -- Apr 03, steamer Redstone boiler explosion, Ohio River 3M~ Carrolton, KY --26-40
+323. 1852 -- July 05, steamer St. James boiler explosion/burns, Lake Pontchartrain, LA  --38-40
+328. 1866 -- Jan 28, steamer Miami boiler explosion and fire, Arkansas River ~Napoleon AR-40
+330. 1872 -- Apr 11, steamer Oceanus boiler explosion/fire, MS River, Brook’s Point, IL--34-40
+336. 1860 -- Oct 31, steamer H. R. W. Hill boiler explosion, Miss. Riv., Baton Rouge, LA--    39
+359. 1852 -- Sep 04, steamboat Reindeer boiler explosion, Hudson River ~Bristol, NY   --28-37
+376. 1853 -- Mar 23, steamer Farmer boiler explosion, was racing, Galveston Bay, TX  --32-36
+378. 1865 -- Jan 26/27, steamer Eclipse boiler explosion, Tenn. River, Johnsonville, TN  --27-36
+388. 1845 -- July 23, steamboat Big Hatchie boiler explosion, Missouri river, Hermann MO->35
+411. 1853 -- Apr 11, steamship Jenny Lind boiler explosion, San Fran. Bay ~Redwood City, CA-33-34
+433. 1864 -- Apr 15, steamer Chenango boiler explosion, NY Harbor ~Ft. Richmond NY --30-33
+476. 1817 -- May 04, steamer Constitution boiler explosion, MS Riv., Point Coupee, LA --10-30
+479. 1836 -- Mar 13, steamboat Ben Franklin boiler explosion near wharf, Mobile, AL  --13-30
+482. 1845 -- July 01, steamboat Marquette boiler explosion, New Orleans, LA            --17-30
+492. 1854 -- Apr 15, steamer Secretary boiler explosion ~Petaluma Riv., San Pablo Bay, CA--18-30
+494. 1855 -- June 30, steamer Lexington boiler explosion/fire, Ohio Riv., ~Stephensport KY--30
+495. 1856 -- Feb 5, steamboat Belle boiler explosion, Sacramento Riv. 9M above Sacramento, CA-~30
+514. 1848 -- Sep 17, steamer Concordia, flue/boiler explosion, MS Riv., Plaquemine, LA- 28-29
+530. 1842 -- Apr 14, steamer Medora boiler explosion, Baltimore Harbor, MD    --     28
+543. 1837 -- Aug 15, steamer Dubuque boiler explosion, Miss. River, Muscatine Bar, IA --16-27
+592. 1847 -- Jan 28, steamer Tuscaloosa boiler explosion/fire, Mobile riv., 10M no. of Mobile AL-~25
+593. 1847 -- June 04 or 05, steamer Edna boiler explosion, Ouachita Riv. Columbia, LA --20-25
+598. 1854 -- Apr 08, steamer Gazelle boiler explosion, Oregon City, OR    --     25
+600. 1864 -- Dec 11, steamboat Maria boiler explosion, fire, Miss. River, Carondelet, MO-- ~25
+601. 1866 -- Mar 04, steamer R.J. Lockwood boiler explosion, MS Riv., below Memphis TN --17-25
+629. 1882 -- Aug 07, steamboat Gold Dust boiler explosion/fire, MS Riv. ~Hickman, KY--   >24
+641. 1841 -- Aug 12, steamer Louisiana boiler explosion, Miss. River, ~Bayou Sara, LA --20-23
+669. 1850 -- Mar 23, steamer Troy boiler explosion, ~Lake Erie, Niagara Riv. ~Buffalo NY- 18-22
+691. 1851 -- Mar 02, steamer Oregon boiler explosion/fire, Miss. Riv., Island No. 82, AR --20-21
+719. 1833 -- Oct 16, steamer New England, boiler explosion, Conn. River, Essex, CT   --13-20
+726. 1850 -- Dec 17, steamboat Knoxville boiler explosion, New Orleans, LA     --12-20
+730. 1852 -- Apr 25, steamboat Prairie State No. 2, boiler explosion, Pekin, IL    --     20
+737. 1858 -- Feb 17, steamer Magnolia boiler explosion, Cape Fear Riv., White Hall NC --11-20
+738. 1860 -- Nov 03, steam towboat Baltic boiler explosion, Mobile Bay ~Mobile, AL   --   <20
+821. 1869 -- Aug 14, steamer Cumberland boiler explosion, OH River, ~Shawneetown, IL--   18
+851. 1836 -- June 09, steamboat Rob Roy boiler explosion, Miss. River, near Columbia, AR-- 17
+900. 1842 -- Feb 25, steamboat North Star boiler explosion and fire, Tuscaloosa, AL    --15-16
+914. 1869 -- Jan 13, steamer Glide boiler explosion/fire, MS Riv. ~57m above New Orleans LA--15-16
+949. 1830 -- Apr 01, steamboat Tri-Color boiler explosion, Ohio River, Wheeling, WV  --     15
+950. 1830 -- Apr 22, steamer Chief Justice Marshall boiler explosion, Hudson River, NY --     15
+953. 1836 -- ~Oct , steamer Nicholas Biddle boiler explosion, below Memphis TN --13-15
+954. 1836 -- Dec 19, steam schooner Dolphin, boiler explosion, off St. Johns Bar, FL   --     15
+964. 1849 -- Jan 14, steamer Richland boiler explosion, Pee Dee Riv. Britton’s Ferry, SC --     15
+968. 1850 -- Nov 07, steamboat Telegraph boiler explosion, off New Castle, DE   --     15
+970. 1853 -- Dec 22, steamer Marlboro/Marlborough boiler explosion, Charleston SC   --14-15
+971. 1854 -- Feb 16, steamboat Kate Kearney boiler explosion, St. Louis, MO                 -->9-15
+977. 1860 -- Nov 08, steamer Globe boiler explosion at dock, Chicago River, Chicago, IL--    15
+979. 1861 -- Aug 25, steamboat J. A. McClelland boiler explosion ~Knight’s Landing, Sacramento Riv., CA--15
+981. 1865 -- Oct 29, steamer St. John boiler explosion, Hudson River, ~5 miles above NYC-- 15
+984. 1878 -- Sep 28, steamer Adelphi boiler explosion, ~Gregory’s Pt. E. Norwalk, CT    --14-15
+1019. 1834 -- Apr 12, steamer St. Louis boiler explosion, Des Moines Rapids, IA   --     14
+1023. 1842 -- Feb 19, steam towboat Mohican boiler explosion, MS Ri., New Orleans, LA --10-14
+1096. 1824 -- May 15 steamer Aetna boiler explosion, New York Harbor, NY     --10-13
+1099. 1833 -- Nov 08, steamer Illinois boiler explosion, Mississippi River, near Cairo, IL --     13
+1108. 1864 -- May 21, steamboat Nile boiler explosion, Detroit, MI   --  6-13
+1112. 1870 -- July 31, steamer Silver Spray boiler explosion/fire, MS Riv., Pacific Place, TN--9-13
+1157. 1836 -- Aug 09, steamer Motto boiler explosion, Blennerhassett Island, Ohio Riv., WV--12
+1172. 1860 -- Mar 06, steamer Alfred Thomas boiler explosion, Delaware riv., Easton, PA--10-12
+1176. 1862 -- Oct 07, steamboat Ceres boiler explosion off St. Joseph Island lighthouse, MS-- 12
+1179. 1865 -- July 31, steamer Joseph Pierce boiler explosion/fire, Palmyra Landing, MS --  9-12
+1260. 1850 -- July 31, steamer America boiler explosion, Lake Erie, near Barcelona, NY--     11
+1264. 1853 -- June 20, steamboat New World, boiler explosion, New York, NY   --     11
+1268. 1865 -- Dec 09, steamer De Soto, boiler explosion, near Pascagoula, MS   --     11
+1289. 1886 -- Sep, steamboat Julia boiler explosion near Vallejo Wharf, CA     --     11
+1309. 1908 -- Nov 21, steamer H.M. Carter boiler explosion/fire, MS Riv., Bayou Goula, LA--10-11
+1318. 1916 -- Feb 02, steamer Sam Brown boiler explosion, Huntington, WV    --     11
+1363. 1837 -- June 19, steamboat Crusader boiler explosion, Rabbit Island, LA   --   ~10
+1377. 1852 -- Dec 14, steamer Magnet boiler explosion, OH Riv., Grandview Island, WV--   10
+1407. 1877 -- Oct 02, steamer Comfort boiler explosion, OH Riv. near Pipe Creek, WV side--10
+1410. 1880 -- Aug 09,  steamer Bonnie Lee boiler explosion, Lenoir Pt., Red River, LA  --  9-10
+1413. 1883 -- May 25, steamboat Pilot boiler explosion, Petaluma River ~Lakeville, CA --  9-10
+53. 1817 -- May 04, steamer Constitution boiler explosion, MS River, Point Coupee, LA  --10-30
+64. 1824 -- May 15 steamer Aetna boiler explosion, New York Harbor, NY  --10-13
+73. 1830 -- Feb 24, steamboat Helen McGregor boiler explosion, Miss riv., Memphis, TN --33-60
+76. 1830 -- Apr 22, steamer Chief Justice Marshall boiler explosion, Hudson River, NY  --     15
+89. 1833 -- June 7, steamer Peruvian boiler explosion, Miss. River, ~New Orleans LA
+90. 1833 -- Oct 16, steamer New England boiler Explosion, CT River, Essex, CT   --13-20
+93. 1833 -- Nov 08, steamer Illinois boiler explosion, Mississippi River, near Cairo, IL   --     13
+95. 1834 -- Apr 12, steamer St. Louis boiler explosion, Des Moines Rapids, IA    --     14
+97. 1835 -- May 15, steamboat Majestic boiler collapse and explosion, Memphis TN    --38-40
+101. 1836 -- Mar 13, steamboat Ben Franklin boiler explosion near wharf, Mobile, AL   --13-30
+102. 1836 -- June 09, steamboat Rob Roy boiler explosion, Miss. River, near Columbia, AR--   17
+103. 1836 -- Aug 09, steamer Motto boiler explosion, Blennerhasset’s Island, OH Riv., WV--   12
+105. 1836 -- ~Oct, steamer Nicholas Biddle boiler explosion, below Memphis, TN  --13-15
+111. 1837 -- June 19, steamboat Crusader boiler explosion, Rabbit Island, LA    --   ~10
+112. 1837 -- July 28, sidewheel steamboat Chariton boiler explosion, St. Louis, MO    --     12
+115. 1837 -- Aug 15, steamer Dubuque boiler explosion, Miss. River, Muscatine Bar, IA --16-27
+121. 1838 -- Apr 25, steamboat Moselle boiler explosion & fire, near Cincinnati, OH     --81-200
+148. 1841 -- Aug 12, steamer Louisiana boiler explosion, Miss. River, ~Bayou Sara, LA --20-23
+155. 1842 -- Feb 25, steamboat North Star boiler explosion and fire, Tuscaloosa, AL    --15-16
+157. 1842 -- Apr 14, steamer Medora boiler explosion, Baltimore Harbor, MD    --     28
+159. 1842 -- July  03, steamboat Edna boiler explosion, near mouth of MO River, MO   --     55
+165. 1843 -- Sep 19, steamboat Clipper No. 1 boiler explosion, MS Riv., Bayou Sara, LA--30-40
+170. 1844 -- Oct 23, steamer Lucy Walker boiler explosion, Ohio River ~New Albany, IN--56-80
+174. 1845 -- July 01, steamboat Marquette boiler explosion, New Orleans, LA            --17-30
+175. 1845 -- July 23, steamboat Big Hatchie boiler explosion, Missouri Riv., Hermann MO-->35
+194. 1847 -- Jan 28, steamer Tuscaloosa boiler explosion/fire, Mobile riv., 10M no. of Mobile AL-~25
+196. 1847 -- June 04 or 05, Steamer Edna boiler explosion, Ouachita Riv. Columbia, LA --20-25
+204. 1847 -- Dec 29  steamer A. N. Johnston boiler explosion, Ohio Riv., ~Maysville, KY--60-80
+208. 1848 -- May 27, steamer H. Kenney boiler explosion, Tombigbee River, AL  -- 8-50
+210. 1848 -- Aug 12, steamer Edward Bates boiler explosion, Miss. River ~Hamburg, IL --     53
+212. 1848 -- Sep 17, steamer Concordia, flue/boiler explosion, MS Riv., Plaquemine, LA--28-29
+216. 1849 -- Jan 14, steamer Richland boiler explosion, Pee Dee Riv. Britton’s Ferry, SC --     15
+238. 1850 -- Mar 23, steamer Troy boiler explosion, ~Lake Erie, Niagara Riv. ~Buffalo NY--18-22
+247. 1850 -- July 31, steamer America boiler explosion, Lake Erie, near Barcelona, NY  --     11
+252. 1850 -- Oct 29, steamboat Sagamore boiler explosion, Central wharf, San Francisco, CA --30-50
+253. 1850 -- Nov 07, steamboat Telegraph boiler explosion, off New Castle, DE   --     15
+254. 1850 -- Nov 21, 25 or 26, steamer Antoinette Douglas boiler explosion, AL Riv., AL-- 9-30
+255. 1850 -- Dec 13, steamer-tug Anglo-Norman boiler explosion, ~New Orleans, LA   --20-100
+256. 1850 -- Dec 17, steamboat Knoxville boiler explosion, New Orleans, LA     --12-20
+265. 1851 -- Mar 02, steamer Oregon boiler explosion/fire, Miss. Riv., Island No. 82, AR --20-21
+289. 1852 -- Apr 03, steamboat Glencoe boiler explosion and fire, St. Louis, MO  --40-62
+290. 1852 -- Apr 03, steamer Redstone boiler explosion, Ohio River 3M~ Carrolton, KY --26-40
+291. 1852 -- Apr 09, steamboat Saluda boiler explosion, Missouri Riv., Lexington, MO --54-100
+294. 1852 -- Apr 25, steamboat Prairie State No. 2, boiler explosion, Pekin, IL    --     20
+296. 1852 -- July 05, steamer St. James boiler explosion/burns, Lake Pontchartrain, LA  --38-40
+302. 1852 -- Sep 04, steamboat Reindeer boiler explosion, Hudson River ~ Bristol, NY  --28-37
+305. 1852 -- Dec 14, steamer Magnet boiler explosion, OH River, Grandview Island, WV--    10
+310. 1853 -- Mar 23, steamer Farmer boiler explosion, was racing, Galveston Bay, TX  --32-36
+311. 1853 -- Apr 11, steamship Jenny Lind boiler explosion, San Fran. Bay ~Redwood City, CA-33-34
+313. 1853 -- June 20, steamboat New World boiler explosion, New York, NY     --     11
+314. 1853 -- Dec 22, steamer Marlboro/Marlborough boiler explosion, Charleston SC   --14-15
+317. 1854 -- Jan 28, steamboat Georgia fire (boiler explosion?), Lake Pontchartrain, LA --25-60
+319. 1854 -- Feb 16, steamboat Kate Kearney boiler explosion, St. Louis, MO                 -->9-15
+325. 1854 -- Apr 08, steamer Gazelle boiler explosion, Oregon City, OR    --     25
+326. 1854 -- Apr 15, steamer Secretary boiler explosion ~Petaluma Riv., San Pablo Bay, CA--18-30
+340. 1855 -- Jan 27, steamboat Pearl boiler explosion, Sacramento River, Sacramento, CA --67-80
+344. 1855 -- June 30, steamer Lexington boiler explosion/fire, Ohio Riv., ~Stephensport KY--30
+349. 1856 -- Feb 5, steamboat Belle boiler explosion, Sacramento Riv. 9M above Sacramento, CA-~30
+388. 1859 -- Feb 27, steamer Princess boiler explosion/fire, MS River, ~Baton Rouge, LA--   70
+391. 1859 -- Apr 24 steamer St. Nicholas boiler explosion/fire, MS Riv., 9m above Helena AR-~60
+396. 1860 -- Mar 06, steamer Alfred Thomas Boiler Explosion, Del. River, Easton, PA  --10-12
+399. 1860 -- June 25, steamer Ben. W. Lewis boiler explosion/fire, Miss. River, Cairo, IL --23-50
+405. 1860 -- Oct 31, steamer H.R.W. Hill boiler explosion, Miss. River, Baton Rouge, LA--    39
+406. 1860 -- Nov 03, steam towboat Baltic boiler explosion, Mobile Bay ~Mobile, AL   --   <20
+407. 1860 -- Nov 08, steamer Globe boiler explosion, at dock, Chicago River, Chicago, IL--   15
+413. 1861 -- Aug 25, steamboat J. A. McClelland boiler explosion ~Knight’s Landing, Sacramento Riv., CA--15
+425. 1862 -- Oct 07, steamboat Ceres boiler explosion off St. Joseph Island lighthouse, MS—12
+445. 1864 -- Apr 15, steamer Chenango boiler explosion, NY Harbor ~Ft. Richmond NY--30-33
+446. 1864 -- May 21, steamboat Nile boiler explosion, Detroit, MI    --  6-13
+460. 1864 -- Dec 11, steamboat Maria boiler explosion, fire, Miss. River, Carondelet, MO-- ~25
+463. 1865 -- Jan 26/27, steamer Eclipse boiler explosion, Tenn. River, Johnsonville, TN  --27-36
+474. 1865 -- July 31, steamer Joseph Pierce boiler explosion/fire, Palmyra Landing, MS  --  9-12
+477. 1865 -- Oct 12, steamer Yosemite boiler explosion, Sacramento Riv., Rio Vista, CA --55-68
+481. 1865 -- Oct 29, steamer St. John boiler explosion, Hudson River, ~5 miles above NYC-- 15
+484. 1865 -- Dec 09, steamer De Soto, boiler explosion, near Pascagoula, MS     --     11
+487. 1866 -- Jan 28, steamer Miami boiler explosion and fire, Arkansas River ~Napoleon AR-40
+489. 1866 -- Feb 02, steamboat W.R. Carter boiler explosion, MS Riv., Island No. 98  --123-215
+491. 1866 -- Mar 04, steamer R.J. Lockwood boiler explosion, MS Riv., below Memphis TN --17-25
+507. 1867 -- Feb 17, steamer David White boiler explosion, Miss. River ~Pt. Chicot, MS --35-60
+have been confusion between this reported event and the boiler explosion on the steamboat David White 2-17-1867
+529. 1869 -- Jan 13, steamer Glide boiler explosion/fire, MS Riv. ~57m above New Orleans LA -15-16
+533. 1869 -- Aug 14, steamer Cumberland boiler explosion, OH River, ~Shawneetown, IL--   18
+542. 1870 -- July 31, steamer Silver Spray boiler explosion/fire, MS Riv., Pacific Place, TN- 9-13
+558. 1871 -- Aug 27, steamboat Ocean Wave boiler explosion, Point Clear ~Mobile, AL  --34-75
+566. 1872 -- Apr 11, steamer Oceanus boiler explosion/fire, MS River, Brook’s Point, IL--34-40
+632. 1877 -- Oct 02, steamer Comfort boiler explosion, OH Riv. near Pipe Creek, WV side--  10
+639. 1878 -- Sep 28, steamer Adelphi boiler explosion, ~Gregory’s Pt. E. Norwalk, CT    --14-15
+663. 1880 -- Aug 09,  steamer Bonnie Lee boiler explosion, Lenoir Pt., Red River, LA   --  9-10
+682. 1882 -- Aug 07, steamboat Gold Dust boiler explosion/fire, MS River ~Hickman, KY-->24
+693. 1883 -- May 25, steamboat Pilot boiler explosion, Petaluma River near Lakeville, CA-9-10
+960. 1908 -- Nov 21, steamer H.M. Carter boiler explosion/fire, MS Riv., Bayou Goula, LA --10-11
+1039.  1916 -- Feb 02, steamer Sam Brown boiler explosion, Huntington, WV     --     11
+1127.  1925 -- Aug 18, steamer Mackinac boiler explosion, Narragansett Bay, RI   --     55
+1157. 1932 -- Sep 9, steamboat Observation boiler explosion, East River ~Riker’s Island NY--72
+5. 1848 -- Sep 17, steamer Concordia, flue/boiler explosion, Miss. Riv., Plaquemine LA --28-29
+6. 1848 -- Sep 17, steamer Concordia, flue/boiler explosion, Miss. Riv., Plaquemine, LA--28-29
+6. 1866 -- Feb 02, steamboat W.R. Carter boiler explosion, MS River, Island No. 98   --123-215
+7. 1838 -- Apr 25, steamboat Moselle boiler explosion and fire, near Cincinnati, OH     --81-200
+16. 1838 -- Apr 21, steamer Oronoko boiler explosion, MS River, near Princeton, MS  --100-130
+20. 1850 -- Dec 13, steamer-tug Anglo-Norman boiler explosion, near New Orleans, LA--20-100
+21. 1851 -- Sep 29, steamboat Brilliant boiler explosion, Miss. River, Bayou Goula, LA --27-100
+22. 1852 -- Apr 09, steamboat Saluda boiler explosion, Missouri River, Lexington, MO --54-100
+23. 1844 -- Oct 23, steamer Lucy Walker boiler explosion, Ohio River ~New Albany, IN  --56-80
+24. 1847 -- Dec 29, steamer A.N. Johnston boiler explosion, Ohio River, ~Maysville KY  --60-80
+25. 1855 -- Jan 27, steamboat Pearl boiler explosion, Sacramento River, Sacramento, CA  --67-80
+26. 1871 -- Aug 27, steamboat Ocean Wave boiler explosion, Point Clear ~Mobile, AL   --34-75
+27. 1932 -- Sep 09, steamboat Observation boiler explosion, East River ~Riker’s Island, NY-- 72
+28. 1859 -- Feb 27, steamer Princess boiler explosion/fire, MS River, near Baton Rouge, LA-- 70
+29. 1850 -- Apr 28, steamer Anthony Wayne boiler explosion, Lake Erie, ~Vermilion, OH --38-69
+30. 1865 -- Oct 12, steamer Yosemite boiler explosion, Sacramento Riv., Rio Vista, CA  --55-68
+34. 1852 -- Apr 03, steamboat Glencoe boiler explosion and fire, St. Louis, MO    --40-62
+38. 1830 -- Feb 24, steamboat Helen McGregor boiler explosion, Miss riv., Memphis, TN --33-60
+39. 1833 -- June 07, steamer Peruvian boiler explosion, MS River, ~New Orleans LA
+42. 1859 -- Apr 24 steamer St. Nicholas boiler explosion/fire, MS Riv., 9m above Helena AR-~60
+44. 1867 -- Feb 17, Steamer David White boiler explosion, Miss. River ~Pt. Chicot, MS   --35-60
+45. 1842 -- July 03, steamboat Edna boiler explosion, near Mouth of Missouri River, MO --     55
+46. 1925 -- Aug 18, steamer Mackinac boiler explosion, Narragansett Bay   --     55
+49. 1848 -- Aug 12, steamer Edward Bates boiler explosion, Miss. River ~Hamburg, IL  --     53
+51. 1848 -- May 27, steamboat H. Kenney boiler explosion, Tombigbee River, AL  --  8-50
+52. 1850 -- Oct 29, steamboat Sagamore boiler explosion, Central wharf, San Francisco, CA --30-50
+53. 1860 -- June 25, steamer Ben. W. Lewis boiler explosion/fire, Miss. River, Cairo, IL  --23-50
+57. 1889 -- Oct 03, steamer Corona boiler explosion, Mississippi River, False River, LA  --38-46
+59. 1835 -- May 15, steamboat Majestic boiler collapse/explosion, Memphis TN   --38-40
+60. 1843 -- Sep 19, steamboat Clipper No. 1 boiler explosion, MS River, Bayou Sara, LA --30-40
+61. 1852 -- Apr 03, steamer Redstone boiler explosion, Ohio River 3M~ Carrolton, KY   --26-40
+62. 1852 -- July 05, steamer St. James boiler explosion/burns, Lake Pontchartrain, LA   --38-40
+63. 1866 -- Jan 28, steamer Miami boiler explosion and fire, Arkansas River ~Napoleon AR--  40
+64. 1872 -- Apr 11, steamer Oceanus boiler explosion/fire, MS River, Brook’s Point, IL  --34-40
+65. 1860 -- Oct 31, steamer H.R.W. Hill boiler explosion, Miss. River, Baton Rouge, LA  --     39
+67. 1852 -- Sep 04, steamboat Reindeer boiler explosion, Hudson River ~ Bristol, NY    --28-37
+70. 1853 -- Mar 23, steamer Farmer boiler explosion, was racing, Galveston Bay, TX    --32-36
+71. 1865 -- Jan 26/27, steamer Eclipse boiler explosion, Tenn. River, Johnsonville, TN   --27-36
+72. 1845 -- July 23, steamboat Big Hatchie boiler explosion, Missouri River, Hermann MO-- >35
+75. 1853 -- Apr 11, steamship Jenny Lind boiler explosion, San Fran. Bay ~Redwood City, CA--33-34
+76. 1864 -- Apr 15, steamer Chenango boiler explosion, NY Harbor ~Ft. Richmond NY  --30-33
+78. 1817 -- May 04, steamer Constitution boiler explosion, Miss. Riv., Point Coupee, LA --10-30
+80. 1836 -- Mar 13, steamboat Ben Franklin boiler explosion near wharf, Mobile, AL    --13-30
+82. 1845 -- July 01, steamboat Marquette boiler explosion, New Orleans, LA             --17-30
+84. 1850 -- Nov 21, 25 or 26, steamer Antoinette Douglas boiler explosion, AL River, AL --  9-30
+86. 1854 -- Apr 15, steamer Secretary boiler explosion ~Petaluma Riv., San Pablo Bay, CA  --18-30
+87. 1855 -- June 30, steamer Lexington boiler explosion/fire, Ohio Riv., ~Stephensport KY--   30
+88. 1856 -- Feb 05, steamboat Belle boiler explosion, Sacramento Riv. 9M above Sacramento, CA--~30
+92. 1848 -- Sep 17, steamer Concordia, flue/boiler explosion, Miss. Riv., Plaquemine, LA--28-29
+94. 1842 -- Apr 14, Medora steamboat boiler explosion, Baltimore Harbor, MD    --     28
+97. 1837 -- Aug 15, steamer Dubuque boiler explosion, Miss. River, Muscatine Bar, IA  --16-27
+102. 1847 -- Jan 28, steamer Tuscaloosa boiler explosion/fire, Mobile riv., 10M no. of Mobile AL-~25
+103. 1847 -- June 04 or 05, steamer Edna boiler explosion, Ouachita Riv. Columbia, LA --20-25
+104. 1854 -- Apr 08, steamer Gazelle boiler explosion, Oregon City, OR    --     25
+105. 1864 – Dec 11, steamboat Maria boiler explosion, fire, Miss. River, Carondelet, MO-- ~25
+106. 1866 -- Mar 04, steamer R.J. Lockwood boiler explosion, MS Riv., below Memphis TN --17-25
+108. 1882 -- Aug 07, steamboat Gold Dust boiler explosion/fire, MS River ~Hickman, KY-->24
+109. 1841 -- Aug 12, steamer Louisiana boiler explosion, Miss. River, ~Bayou Sara, LA --20-23
+111. 1850 -- Mar 23, steamer Troy boiler explosion, ~Lake Erie, Niagara Riv. ~Buffalo NY--18-22
+114. 1851 -- Mar 02, steamer Oregon boiler explosion/fire, Miss. Riv., Island No. 82, AR --20-21
+116. 1833 -- Oct 16, steamer New England boiler explosion, Conn. River, Essex, CT    --13-20
+118. 1850 -- Dec 17, steamboat Knoxville boiler explosion, New Orleans, LA     --12-20
+121. 1852 -- Apr 25, steamboat Prairie State No. 2, boiler explosion, Illinois Riv., Pekin, IL--20
+125. 1860 -- Nov 03, steam Towboat Baltic boiler explosion, Mobile Bay ~Mobile, AL  --   <20
+136. 1869 -- Aug 14, steamer Cumberland boiler explosion, OH River, ~Shawneetown, IL--  18
+145. 1842 -- Feb 25, steamboat North Star boiler explosion & Fire, Tuscaloosa, AL     --15-16
+148. 1869 -- Jan 13, steamer Glide boiler explosion/fire, MS Riv. ~57m above New Orleans LA -15-16
+154. 1830 -- May, steamer Chief Justice Marshall boiler explosion, Hudson River, NY  --     15
+157. 1836 -- ~Oct , steamer Nicholas Biddle boiler explosion, below Memphis TN --13-15
+160. 1849 -- Jan 14, steamer Richland boiler explosion, Pee Dee River, Britton’s Ferry, SC--  15
+161. 1850 -- Nov 07, steamboat Telegraph boiler explosion, off New Castle, DE   --     15
+162. 1853 -- Dec 22, steamer Marlboro/Marlborough boiler explosion, Charleston, SC  --14-15
+163. 1854 -- Feb 16, steamboat Kate Kearney boiler explosion, St. Louis, MO                 -->9-15
+165. 1860 -- Nov 08, steamer Globe boiler explosion at dock, Chicago River, Chicago, IL--    15
+167. 1861 -- Aug 25, steamboat J. A. McClelland boiler explosion ~Knight’s Landing, Sacramento Riv., CA--15
+168. 1865 -- Oct 29, steamer St. John boiler explosion, Hudson River, ~5 miles above NYC-- 15
+169. 1878 -- Sep 28, steamer Adelphi boiler explosion, ~Gregory’s Pt. E. Norwalk, CT   --14-15
+170. 1834 -- Apr 12, steamer St. Louis boiler explosion, Des Moines Rapids, IA   --     14
+176. 1824 -- May 15 steamboat Aetna boiler explosion, New York Harbor, NY   --10-13
+177. 1833 -- Nov 08, steamer Illinois boiler explosion, Miss. River, near Cairo, IL --     13
+179. 1864 -- May 21, steamboat Nile boiler explosion, Detroit, MI    --  6-13
+181. 1870 -- July 31, steamer Silver Spray boiler explosion/fire, MS Riv., Pacific Place, TN- 9-13
+188. 1837 -- July 28, sidewheel steamboat Chariton boiler explosion St. Louis, MO    --     12
+191. 1860 -- Mar 06, steamer Alfred Thomas boiler explosion, Del. River, Easton, PA   --10-12
+192. 1862 -- Oct 07, steamboat Ceres boiler explosion off St. Joseph Island lighthouse, MS--  12
+194. 1865 -- July 31, steamer Joseph Pierce boiler explosion, Palmyra Landing, MS    --  9-12
+198. 1850 -- July 31, steamer America boiler explosion, Lake Erie, near Barcelona, NY  --     11
+200. 1853 -- June 20, steamboat New World boiler explosion,, New York, NY    --     11
+201. 1865 -- Dec 09, steamer De Soto boiler explosion, near Pascagoula, MS     --     11
+203. 1886 -- Sep, steamboat Julia boiler explosion,      --     11
+205. 1908 -- Nov 21, steamer H.M. Carter boiler explosion/fire, MS Riv., Bayou Goula, LA-10-11
+206. 1916 -- Feb 02, steamer Sam Brown boiler explosion, Huntington, WV      --     11
+210. 1837 -- Jun 19, steamboat Crusader boiler explosion, Rabbit Island, LA     --   ~10
+214. 1852 -- Dec 14, steamer Magnet boiler explosion, OH River, Grandview Island, WV--    10
+218. 1877 -- Oct 02, steamer Comfort boiler explosion, OH Riv. near Pipe Creek, WV side--   10
+219. 1880 -- Aug 09, steamer Bonnie Lee boiler explosion, Lenoir Pt., Red River, LA   --  9-10
+220. 1883 -- May 25, steamboat Pilot boiler explosion, Petaluma River near Lakeville, CA-9-10
+25. 1854 -- Jan 28, steamboat Georgia fire (boiler explosion?), Lake Pontchartrain, LA   --25-60
+Machinery, Boilers, Engines     --  31 (excluding maritime and mining)
+Boiler Flue Collapse, Scalding
+Includes small number of cases of boiler piping breaks or bursts, resulting in scalding injuries and deaths.
+Commercial/Gas/Industrial/Military/ (Excludes Aviation, Maritime Boiler & Mining)
+20. 1850 -- Feb 04, boiler explosion, Taylor & Co., Hague Street, Manhattan, NY
+23. 1905 -- Mar 20, boiler explosion & fire, Grover & Co. Shoe Factory, Brockton, MA
+40. 1895 -- Nov 06, Evening Journal building boiler explosion and fire, Detroit, MI --37-40
+58. 1901 -- Nov 26, boiler explosion and fire, Penberthy Injector Company, Detroit, MI  --29-30
+65. 1867 -- Jun 06, Geasy & Ward’s Cabinet Makers boiler explosion & Fire, Philly, PA  --22-27
+66. 1869 -- Oct 01, boiler explosion, Power Hall, State Fair, Indianapolis, IN                   –21-~27
+70. 1912 -- Mar 18, train engine boiler explosion, Southern Pacific Yard, San Antonio, TX--    26
+71. 1895 -- Aug 19, boiler explosion and fire, Gumry Hotel, Denver, CO    --     25
+74. 1889 -- Feb 17, Park Central Hotel boiler explosion & collapse, Hartford, CT   --21-23
+76. 1962 -- Oct 03, boiler explosion, NY Telephone Company building, Manhattan, NY  --     23
+82. 1854 -- Mar 02 , boiler explosion/fire, Fales & Gray Railroad Car Works, Hartford, CT--   21
+85. 1904 -- Mar 02, boiler explodes, Hotel Darlington (under construction), Manhattan, NY--  21
+93. 1867 -- Nov 8, boiler explosion, Reese & Co. Rolling-Mill, Pitt Township, PA  --17-20
+95. 1887 -- Apr 23, boiler explosion, Passaic Rolling Mills, Paterson, NJ    --     20
+116. 1910 -- Dec 29, boiler explosion, Morewood Lake Ice Co., south of Pittsfield, MA  --     17
+138. 1902 -- Nov 29, boiler explosion, Swift & Co. Power Plant, Chicago, IL     --13-15
+140. 1916 -- Jan 24, boiler explosion, Kelker Glass Blower Co., Harrison Street, Buffalo NY--15
+149. 1881 -- Jan 06, Big Puddle boiler explosion, Allentown Rolling Mill Co., PA --13-14
+166. 1910 -- May 17, boiler explosion, American Sheet and Tin Plate Co., Canton OH   --     13
+177. 1860 -- Sep 24, boiler explosion, W. W. Wallace Marble Works, Pittsburgh, PA    --10-12
+181. 1897 -- July 06, wheat thrashing machine boiler explosion, Hartsville area, TN    -- 9-12
+182. 1911 -- Feb 08, boiler explosion, MO, KS & TX Rail Roundhouse, Smithville, TX  --     12
+Commercial/Gas/Industrial/Military/ (Excludes Aviation, Maritime Boiler & Mining):
+225. 1866 -- Sep 12, boiler explosion, S&G Rork Sawing Mill, Albany, NY      --     10
+229. 1892 -- Mar 21, E. Jordan Lumber Co. mill No. 2 boiler explosion, East Jordan, MI --  7-10
+234. 1901 -- Mar 11, boiler explosion, Doremus Laundry, 458 W. Madison, Chicago, IL --   ~10
+236. 1908 -- Aug 10, boiler explosion, Susquehanna Iron & Steel Co., York, PA   --     10
+1999 -- Feb 01, boiler explosion, Ford Motor’s River Rouge complex, Dearborn, MI     --       6
+1891 -- June 03, boiler explosion, Dusard Brothers’ Saw Mill, near Fayetteville, IN --       5
+Commercial/Industrial/Gas (Excludes Aviation, Maritime Boiler & Mining)
+7. 1850 -- Feb 04, boiler explosion, Taylor & Co., Hague St., Manhattan, NY
+8. 1854 -- Mar 02 , boiler explosion and fire, Fales & Gray RR Car Works, Hartford, CT --     21
+10. 1860 -- Sep 24, boiler explosion, W. W. Wallace Marble Works, Pittsburgh, PA      --10-12
+23. 1866 -- Sep 12, boiler explosion, S&G Rork Sawing Mill, Albany, NY   --     10
+24. 1867 -- June 06, Geasy & Ward’s Cabinet Makers boiler explosion & fire, Philly, PA  --22-27
+25. 1867 -- Nov 08, boiler explosion, Reese & Co. Rolling-Mill, Pitt Township, PA --17-20
+26. 1869 -- Oct 01, boiler explosion, Power Hall, State Fair, Indianapolis, IN                  --21-~27
+31. 1881 -- Jan 06, Big Puddle boiler explosion, Allentown Rolling Mill Co., PA   --13-14
+37. 1887 -- Apr 23, Passaic Rolling Mills boiler explosion, Paterson, NJ     --     20
+40. 1889 -- Feb 17, Park Central Hotel boiler explosion & collapse, Hartford, CT   --21-23
+1891 -- June 03, Dusard Brothers’ Saw Mill boiler explosion, near Fayetteville, IN   --       5
+47. 1892 -- Mar 21, East Jordan Lumber Co. mill No. 2 boiler explosion, East Jordan, MI --  7-10
+52. 1895 -- Aug 19, boiler explosion and fire, Gumry Hotel, Denver, CO    --     25
+53. 1895 -- Nov 06, Evening Journal building boiler Explosion and fire, Detroit, MI     --37-40
+55. 1897 -- July 06, wheat thrashing machine boiler explosion, Hartsville area, TN  --  9-12
+63. 1901 -- Mar 11, boiler explosion, Doremus Laundry, 458 W. Madison, Chicago, IL   --   ~10
+67. 1901 -- Nov 26, boiler explosion and fire, Penberthy Injector Co., Detroit, MI   --29-30
+73. 1902 -- Nov 29, boiler explosion, Swift & Co. Power Plant, Chicago, IL  --13-15
+80. 1904 -- Mar 02, boiler explodes, Hotel Darlington (under construct.), Manhattan, NY --     21
+84. 1905 -- Mar 20, boiler explosion and fire, Grover & Co. Shoe Factory, Brockton, MA
+93. 1908 -- Aug 10, boiler explosion, Susquehanna Iron & Steel Co., York, PA    --     10
+96. 1910 -- May 17, boiler explosion, American Sheet and Tin Plate Co., Canton, OH    --     13
+99. 1910 -- Dec 29, boiler explosion, Morewood Lake Ice Co., south of Pittsfield, MA   --     17
+102. 1911 -- Feb 08, boiler explosion, MO, KS & TX Rail Roundhouse, Smithville, TX  --     12
+104. 1912 -- Mar 18, train engine boiler explosion, Southern Pacific Yard, San Antonio, TX-- 26
+112. 1916 -- Jan 24, boiler explosion, Kelker Glass Blower Co., Harrison Street, Buffalo NY--15
+226. 1962 -- Oct 03, boiler explosion, NY Telephone Company building, Manhattan, NY--     23
+1999 -- Feb 01, boiler explosion, Ford Motor’s River Rouge complex, Dearborn, MI--       6
+(Excludes Aviation, Maritime Boiler and Mine Gas Explosions)
+(Excludes Maritime Boiler & Mining)
+EXPLOSIONS (Industrial/Commercial) Subset – MACHINERY, BOILERS, ENGINES
+1. 1850 -- Feb 04, boiler explosion, Taylor & Co., Hague St., Manhattan, NY
+2. 1905 -- Mar 20, boiler explosion & fire, Grover & Co. Shoe Factory, Brockton, MA
+3. 1895 -- Nov 06, Evening Journal Building boiler explosion & fire, Detroit, MI  --37-40
+4. 1912 -- Mar 18, boiler explosion, train engine, So. Pacific Yard, San Antonio TX    --     36
+6. 1901 -- Nov 26, boiler explosion and fire, Penberthy Injector Co., Detroit, MI   --29-30
+8. 1867 -- Jun 06, Geasy & Ward’s Cabinet Makers boiler explosion & fire, Philly, PA   --22-27
+9. 1869 -- Oct 01, boiler explosion, Power Hall, State Fair, Indianapolis, IN                  --21-~27
+10. 1895 -- Aug 19, boiler explosion and fire, Gumry Hotel, Denver, CO    --     25
+11. 1889 -- Feb 17, Park Central Hotel boiler explosion & bldg. collapse, Hartford, CT   --21-23
+12. 1962 -- Oct 03, boiler explosion, NY Telephone Company building, Manhattan, NY  --     23
+13. 1867 -- Nov 08, boiler explosion, Reese & Co. Rolling-Mill, Pitt Township, PA --17-20
+14. 1887 -- Apr 23, boiler explosion, Passaic Rolling Mills, Paterson, NJ    --     20
+16. 1910 -- Dec 29, boiler explosion, Morewood Lake Ice Co., south of Pittsfield, MA   --     17
+20. 1902 -- Nov 29, boiler explosion, Swift & Co. Power Plant, Chicago, IL  --13-15
+21. 1916 -- Jan 24, boiler explosion, Kelker Glass Blower Co., Harrison Street, Buffalo NY--  15
+22. 1881 -- Jan 6, Big Puddle boiler explosion, Allentown Rolling Mill Co., PA    --13-14
+24. 1910 -- May 17, boiler explosion, American Sheet and Tin Plate Co., Canton, OH    --     13
+26. 1860 -- Sep 24, boiler explosion, W. W. Wallace Marble Works, Pittsburgh, PA     --10-12
+27. 1897 -- July 06, wheat thrashing machine boiler explosion, Hartsville area, TN  --  9-12
+28. 1911 -- Feb 08, boiler explosion, MO, KS & TX Rail Roundhouse, Smithville, TX   --     12
+30. 1866 -- Sep 12, boiler explosion, S&G Rork Sawing Mill, Albany, NY   --     10
+31. 1892 -- Mar 21, Lumber Co. mill No. 2 boiler explosion, East Jordan, MI     --  7-10
+32. 1901 -- Mar 11, boiler explosion, Doremus Laundry, 458 W. Madison, Chicago, IL   --   ~10
+33. 1908 -- Aug 10, boiler explosion, Susquehanna Iron & Steel Co., York, PA    --     10
+1999 -- Feb 01, boiler explosion, Ford Motor’s River Rouge complex, Dearborn, MI  --       6
+1891 -- June 3, Boiler Explosion, Dusard Brothers’ Saw Mill, near Fayetteville, IN   --       5
+2. 1854 -- Mar 02 , boiler explosion/fire, Fales & Gray RR Car Works, Hartford, CT    --     21
+3. 1866 -- Sep 12, boiler explosion, S&G Rork Sawing Mill, Albany, NY   --     10
+4. 1867 -- June 06, Geasy & Ward’s Cabinet Makers boiler explosion & fire, Philly, PA  --22-27
+5. 1867 -- Nov 08, boiler explosion, Reese & Co. Rolling-Mill, Pitt Township, PA --17-20
+6. 1881 -- Jan 06, Big Puddle boiler explosion, Allentown Rolling Mill Co., PA   --13-14
+7. 1887 -- Apr 23, boiler explosion, Passaic Rolling Mills, Paterson, NJ    --     20
+8. 1889 -- Feb 17, Park Central Hotel boiler explosion & bldg. collapse, Hartford, CT   --21-23
+1891 -- June 03, boiler explosion, Dusard Brothers’ Saw Mill, near Fayetteville, IN   --       5
+9. 1892 -- Mar 21, East Jordan Lumber Co. mill No. 2 boiler explosion, East Jordan, MI --  7-10
+11. 1895 -- Nov 06, Evening Journal Building boiler explosion and fire, Detroit, MI     --37-40
+12. 1897 -- July 06, wheat thrashing machine boiler explosion, Hartsville area, TN  --  9-12
+13. 1901 -- Mar 11, boiler explosion, Doremus Laundry, 458 W. Madison, Chicago, IL   --   ~10
+15. 1901 -- Nov 26, boiler explosion and fire, Penberthy Injector Company, Detroit, MI  --29-30
+18. 1902 -- Nov 29, boiler explosion, Swift & Co. Power Plant, Chicago, IL  --13-15
+19. 1905 -- Mar 20, boiler explosion/fire, Grover & Co. Shoe Factory, Brockton, MA    --     58
+21. 1908 -- Aug 10, boiler explosion, Susquehanna Iron & Steel Company, York, PA    --     10
+22. 1910 -- May 17, boiler explosion, American Sheet and Tin Plate Com., Canton, OH  --     13
+23. 1910 -- Dec 29, boiler explosion, Morewood Lake Ice Com., south of Pittsfield, MA  --     17
+24. 1911 -- Feb 08, boiler explosion, MO, KS & TX Rail Roundhouse, Smithville, TX   --     12
+25. 1912 -- Mar 18, boiler explosion, train engine, So. Pacific Yard, San Antonio TX    --     36
+26. 1916 -- Jan 24, boiler explosion, Kelker Glass Blower Co., Harrison Street, Buffalo NY--   15
+32. 1962 -- Oct 03, boiler explosion, NY Telephone Company building, Manhattan, NY  --     23
+31. 1850 -- Feb 04, boiler explosion and fire, Taylor & Co., Hague St., Manhattan, NY
+38. 1905 -- Mar 20, boiler explosion/fire, Grover & Co. Shoe Factory, Brockton, MA
+72. 1901 -- Jan 08, orphan asylum fire/boiler explosion, Rochester, NY     --     31
+7. 1850 -- Feb 04, Boiler Explosion & Fire, Taylor & Co., Hague St., Manhattan, NY
+89. 1901 -- Jan 08, Fire/Boiler Explosion, Orphan Asylum, Rochester, NY   --     31
+108. 1905 -- Mar 20, Boiler Explos. & Fire, Grover & Co. Shoe Factory, Brockton, MA
+3. 1850 -- Feb 04, Boiler Explosion & Fire, Taylor & Co., Hague St., Manhattan, NY
+4. 1901 -- Jan 08, Fire/Boiler Explosion, Orphan Asylum, Rochester, NY   --     31
+3. 1850 -- Feb 04, boiler explosion & fire, Taylor & Co., Hague St., Manhattan, NY
+4. 1905 -- Mar 20, boiler explosion & fire, Grover & Co. Shoe Factory, Brockton, MA
+1. 1901 -- Jan 08, Fire/Boiler Explosion, Orphan Asylum, Rochester, NY   --     31
+67. 1847 -- Dec 20, steamer Westwood hits bank in fog, boilers explode, below New Orleans LA--12-15
+2. 1847 -- Dec 20, steamer Westwood hits bank in fog, boilers explode, below New Orleans LA--12-15
+59. 1858 -- Jun 13, Pennsylvania boiler explos./fire, MS River, Ship Isl., Hardin Pt., AR--60-160
+65. 1849 -- Nov 15, steamboat Louisiana boilers explode, sinks, New Orleans, LA         --86-150
+70. 1838 -- June 14, sidewheel Pulaski boiler explodes/sinks SE of New River Inlet, NC--95-141
+86. 1871 -- July 30, Staten Island Ferry Westfield II  boiler explosion, NY Harbor, NY --106-125
+100. 1864 -- Sep 5, steamer Washoe boiler explos., Sacramento Riv., ~10m N. Rio Vista, CA--51-103
+114. 1851 -- Sep 29, steamboat Brilliant boiler explos., Miss. River, Bayou Goula, LA  --27-100
+173. 1850 -- Apr 28, stmr. Anthony Wayne boiler explosion, Lake Erie, ~Vermilion, OH  --38-69
+182. 1871 -- Jan 28, steamer W. R. Arthur boilers explode, MS riv., Isl. #40 ~Memphis, TN--45-66
+186. 1866 -- Jan 30, Steamer Missouri boiler explodes/sinks, Ohio River near Newburgh, IN- 65
+187. 1905 -- July 21, USS Bennington Gunboat Boiler Explosion, San Diego, CA  --60-65
+196. 1864 -- Nov 12, Navy gunboat Tulip boiler explosion, Ragged Point, MD    --49-61
+202. 1838 -- Nov 25, General Brown boiler explosion, Mississippi River, Helena, AR   --30-60
+209. 1866 -- May 31, City of Memphis boiler explosion/fire, MS River off Buck Island AR-11-~60
+One report noted a boiler explosion above New Orleans; another said in Natchez MS; one does not note locale
+source we use which notes this states that “some sixty persons lost their lives...” when the David White boilers
+241. 1837 -- Dec 27, Black Hawk boiler explosion, fire, MS River, Black Hawk Pt., LA  --30-50
+273. 1854 -- Mar 13, steamer Reindeer, boiler flue collapse, Ohio River, Cannelton, IN  --40-46
+375. 1850 -- Apr 22, Belle of the West, fire/boiler explosion?, OH Riv., ~Warsaw, KY
+394. 1868 -- Mar 18, Magnolia boiler explosion/fire, OH R. ~Cincinnati Oh & California Ky-- 35
+477. 1828 -- May 14, Car of Commerce boiler explosion, MS. River, Canadian Reach, AR--   30
+485. 1848 -- Jan 09, Blue Ridge boiler explosion, OH Ri., Raccoon Island, ~Gallipolis OH --15-30
+487. 1850 -- Nov 21, 25 or 26, Steamer Antoinette Douglas Boiler Explos., AL Riv., AL --  9-30
+490. 1852 -- Nov 12, Buckeye Belle boiler explosion, Muskingum Riv., Beverly canal, OH--   30
+497. 1873 -- Aug 22, George C. Wolfe boiler explos., MS Ri., St Francis Is. ~Helena AR --15-30
+501. 1888 -- Feb 27, ferry Julia boiler explosion/fire, Carquinez Strait, South Vallejo, CA--    30
+535. 1901 -- Aug 28, City of Trenton boiler explodes, Delaware River near Torresdale, PA-26-28
+588. 1840 -- Nov 07, steamboat Persian boiler flue collapse, MS Riv., near Napoleon, AR-- >25
+626. 1866 -- Aug 6, steamer General Lytle boiler explos. ~Bethlehem IN, OH Riv., KY side --20-24
+642. 1851 -- Sep 21, steamboat James Jackson boilers explode, OH Riv., Shawneetown IL-15-23
+725. 1850 -- Jan 23, St. Joseph boiler explodes, MS Ri., Islands No 80/81, ~Napoleon AR-- 8-20
+727. 1851 -- Feb 20, sidewheel ferry St. Louis boiler explosion, St. Louis, MO    --     20
+729. 1852 -- Jan 14, George Washington boiler explosion/fire, MS Riv., Grand Gulf, MS --16-20
+734. 1854 -- Aug 26, steamboat Timour boilers explode, MO Riv. 3m~Jefferson City, MO --15-20
+736. 1858 -- Jan 28, Fanny Fern boiler explosion/fire, OH Riv., near Garrison Creek, KY- 17-20
+743. 1876 -- May 17, steamer Pat Cleburne boiler explodes/fire, OH Riv., ~Weston KY, IL shore~20
+752. 1905 -- Jan 03, towboat Defender boiler explosion, Ohio River, ~Huntington, WV   --  9-20
+755. 1913 -- Jan 9, stmr. Jas. T. Staples boilers explode, Tombigbee Riv. ~Bladen Springs AL--15-20
+812. 1847 -- Jan 21, stmr. Phoenix boiler explos.; Phoenix/Manchester deaths; Head of Passes, LA-- 18
+813. 1847 -- May 06, steamboat New Hampshire boiler explos., Ark Riv., Pine Bluff, AR--12-18
+822. 1874 -- Oct 22, steamer Brooklyn boiler explodes/sinks, Detroit Riv. ~Wyandotte MI--13-18
+874. 1882 -- Dec 6, steamer Morning Star flue collapse/boiler bursts, MS Riv., below N.O., LA--15-17
+904. 1849 -- Mar 31, steamer Virginia boiler explodes, sinks, Ohio River, Rush Run, OH--14-16
+927. 1906 -- Dec 19, steamer W.T. Scovell boiler explodes, ~Vicksburg, Gold Dust Lndg. LA --13-16
+963. 1847 -- Dec 20, steamer Westwood hits bank in fog, boilers explode, below New Orleans LA--12-15
+1027. 1857 -- Mar 30, steamer Forest Rose boiler explos., Miss. Riv., near Napoleon, AR --11-14
+1028. 1858 -- Feb 04, Colonel Crossman boiler explosion, fire, Miss. Riv. ~New Madrid MO- 14
+1030. 1862 -- Nov 05, steamer J.H. Dickey grounds, IL shore, MS River, boiler explodes  --     14
+1109. 1864 -- Oct 17, J.C. Irwin boilers explode, Cumberland Riv., 10m above Eddyville, KY-11-13
+1158. 1837 -- July 28, sidewheeler Chariton, boiler explosion, St. Louis, MO     --     12
+1162. 1850 -- Oct 05, Kate Fleming boiler explosion/fire, Ohio River, Walker’s Bar, KY  --11-12
+1169. 1855 -- Apr 20, propeller Oregon boiler explodes/sinks, Detroit River ~Belle Isle, MI--  12
+1177. 1864 -- Aug 10, propeller Racine boiler explosion, Lake Erie, off Rondeau, Ontario--     12
+1256. 1830 -- Apr 18, stmr. Caledonia boiler explosion, MS Riv., ~9m below New Madrid, MO-10-11
+1262. 1851 -- Aug 20, steamboat Dacotah boilers explode, Illinois River, Peoria, IL    --     11
+1270. 1868 -- May 01, steamer Governor Cushman boiler explodes, Lake Erie, Buffalo, NY--11
+1302. 1904 -- May 26, towboat Fred Wilson boiler explosion, W. Louisville, KY  --     11
+1315. 1914 -- May 11, steamer Jefferson boiler tubes burst, scalding, off Cape Henry, VA--   11
+1364. 1838 -- Dec 3, stmr. Augusta boiler explosion, MS River ~11m north of Natchez, MS--10
+1365. 1839 -- Nov 18, Wilmington boiler explos., MS Riv., ~AR Riv. and Napoleon, AR-- 6-10
+1368. 1845 -- Feb 8, stmr. Siren boiler explodes, Apalachicola riv., below Chattahoochee, FL-10
+1386. 1864 -- Nov 26, sternwheel Sophie McLane boiler explosion, Suisan city dock, CA--  >10
+1424. 1896 -- May 10, stmr. Harry Brown, boiler explos., MS Riv. ~Ursina Landing, MS--    10
+67. 1828 -- May 14, Car of Commerce boiler explosion, Miss. River, Canadian Reach, AR--    30
+75. 1830 -- Apr 18, stmr. Caledonia boiler explosion,, MS Riv., ~9m below New Madrid, MO --10-11
+107. 1836 -- Dec 19, schooner Dolphin boiler explosion, off St. Johns Bar, FL     --     15
+One report states that there was a boiler explosion above New Orleans, another that it happened in Natchez MS,
+118. 1837 -- Dec 27, Black Hawk boiler explosion/fire, MS River, Black Hawk Pt., LA  --30-50
+122. 1838 -- Jun 14, sidewheel Pulaski boiler explodes/sinks SE of New River Inlet, NC--95-141
+126. 1838 -- Nov 25, stmr. General Brown boiler explosion, Miss. River, Helena, AR   --30-60
+127. 1838 -- Dec 3, stmr. Augusta boiler explosion, Miss. River ~11m north of Natchez, MS--10
+132. 1839 -- Nov 18, The Wilmington boiler explosion, Miss. River, near Arkansas. River--    10
+141. 1840 -- Nov 07, steamboat Persian boiler flue collapse, MS Riv., near Napoleon, AR-- >25
+154. 1842 -- Feb 19, steam towboat Mohican boiler explos., MS River, New Orleans, LA-10-14
+172. 1845 -- Feb 8, stmr. Siren boiler explodes, Apalachicola Riv., below Chattahoochee, FL-10
+193. 1847 -- Jan 21, stmr. Phoenix boiler explos.; Phoenix/Manchester deaths; Head of Passes, LA--18
+195. 1847 -- May 06, steamboat New Hampshire boiler explos., Ark Riv., Pine Bluff, AR--12-18
+203. 1847 -- Dec 20, steamer Westwood hits bank in fog, boilers explode, below New Orleans LA--12-15
+205. 1848 -- Jan 09, Blue Ridge boiler explosion, OH Ri., Raccoon Island, ~Gallipolis OH --15-30
+220. 1849 -- Mar 31, steamer Virginia boiler explodes, sinks, Ohio River, Rush Run, OH--14-16
+234. 1849 -- Nov 15, steamboat Louisiana boilers explode, sinks, New Orleans, LA      --86-150
+236. 1850 -- Jan 23, St. Joseph boiler explosion, MS Ri., Islands No 80/81 ~Napoleon AR--8-20
+241. 1850 -- Apr 22, Belle of the West, fire/boiler explos.?, OH River, ~Warsaw, KY
+243. 1850 -- Apr 28, stmr. Anthony Wayne boiler explosion, Lake Erie, ~Vermilion, OH  --38-69
+249. 1850 -- Oct 05, Kate Fleming boiler explosion/fire, Ohio River, Walker’s Bar, KY   --11-12
+264. 1851 -- Feb 20, sidewheel ferry St. Louis boiler explosion, St. Louis, MO    --     20
+274. 1851 -- Sep 21, steamboat James Jackson boilers explode, OH Riv., Shawneetown IL-15-23
+275. 1851 -- Sep 29, steamboat Brilliant boiler explos., Miss. River, Bayou Goula, LA --27-100
+283. 1852 -- Jan 14, George Washington boiler explosion/fire, MS Riv., Grand Gulf, MS --16-20
+304. 1852 -- Nov 12, Buckeye Belle boiler explosion, Muskingum Riv., Beverly canal, OH--   30
+323. 1854 -- Mar 13, steamer Reindeer, boiler flue collapse, Ohio River, Cannelton, IN  --40-46
+330. 1854 -- Aug 26, steamboat Timour boilers explode, MO Riv. 3m~Jefferson City, MO --15-20
+343. 1855 -- Apr 20, propeller Oregon boiler explodes/sinks, Detroit River ~Belle Isle, MI--   12
+366. 1857 -- Mar 30, steamer Forest Rose boiler explos., Miss. Riv., near Napoleon, AR  --11-14
+377. 1858 -- Jan 28, Fanny Fern boiler explosion/fire, OH Riv., near Garrison Creek, KY- 17-20
+378. 1858 -- Feb 04, Colonel Crossman boiler explosion, fire, Miss. Riv. ~New Madrid MO-- 14
+379. 1858 -- Feb 17, steamer Magnolia boiler explodes, Cape Fear Riv., White Hall, NC --11-20
+385. 1858 -- Jun 13, Pennsylvania boiler explos./fire, MS Riv., Ship Isl., Hardin Pt. AR--60-160
+427. 1862 -- Nov 05, steamer J.H. Dickey grounds IL shore, MS River, boiler explodes  --     14
+451. 1864 -- Aug 10, propeller Racine boiler explosion, Lake Erie, off Rondeau, Ontario --     12
+453. 1864 -- Sep 5, steamer Washoe boiler explos., Sacramento Riv., ~10m N. of Rio Vista, CA-51-103
+454. 1864 -- Oct 17, J.C. Irwin boilers explode, Cumberland Riv., 10m above Eddyville, KY--11-13
+458. 1864 -- Nov 12, Navy Gunboat Tulip boiler explosion, Ragged Point, MD   --49-61
+459. 1864 -- Nov 26, sternwheel Sophie McLane boiler explosion, Suisan city dock, CA  --   >10
+488. 1866 -- Jan 30, steamer Missouri boiler explodes/sinks, Ohio River near Newburgh, IN- 65
+496. 1866 -- May 31, City of Memphis boiler explosion/fire, MS River off Buck Island AR-11-~60
+498. 1866 -- Aug 6, steamer General Lytle boiler explos. ~Bethlehem IN, OH Riv., KY side --20-24
+517. 1868 -- Mar 18, Magnolia boiler explosion/fire, OH R. ~Cincinnati Oh & California Ky--35
+519. 1868 -- May 01, steamer Governor Cushman boiler explodes, Lake Erie, Buffalo, NY--   11
+551. 1871 -- Jan 28, steamer W. R. Arthur boilers explode, MS riv., Isl. #40 ~Memphis, TN--45-66
+556. 1871 -- July 30, Staten Island Ferry Westfield II  boiler explosion, NY Harbor NY-106-125
+575. 1873 -- Aug 22, George C. Wolfe boiler explos., MS Riv., St Francis Is. ~Helena AR-15-30
+585. 1874 -- Oct 22, steamer Brooklyn boiler explodes/sinks, Detroit Riv. ~Wyandotte, MI--13-18
+615. 1876 -- May 17, steamer Pat Cleburne boiler explodes/fire, OH Riv., ~Weston KY, IL shore~20
+686. 1882 -- Dec 6, steamer Morning Star flue collapse/boiler bursts, MS Riv., below N.O., LA--15-17
+760. 1888 -- Feb 27, ferry Julia boiler explosion/fire, Carquinez Strait, South Vallejo, CA--    30
+782. 1889 -- Oct 03, steamer Corona boiler explos., Mississippi River, False River, LA  --38-46
+849. 1896 -- May 10, Harry Brown boiler explosion, Miss. River ~Ursina Landing, MS  --     10
+884. 1901 -- Aug 28, City of Trenton, Boiler Explodes, Delaware River, ~Torresdale, PA --26-28
+914. 1904 -- May 26, tow Fred Wilson boiler explosion, West Louisville, KY     --     11
+917. 1905 -- Jan 03, towboat Defender boiler explosion, OH River, near Huntington, WV-- 9-20
+919. 1905 -- July 21, USS Bennington Gunboat Boiler Explosion, San Diego, CA  --60-65
+936. 1906 -- Dec 19, steamer W.T. Scovell boiler explodes, ~Vicksburg, Gold Dust Lndg. LA--13-16
+1001. 1913 -- Jan 9, stmr. Jas. T. Staples boilers explode, Tombigbee Riv. ~Bladen Springs AL--15-20
+1012. 1914 -- May 11, steamer Jefferson boiler tubes burst, scalding, off Cape Henry, VA--    11
+MARITIME Disasters -- Boiler Flue Collapse/Steam Release Subset
+2. 1854 -- Mar 13, steamer Reindeer, boiler flue collapse, Ohio River, Cannelton, IN   --40-46
+6. 1840 -- Nov 07, steamboat Persian boiler flue collapse, MS River, near Napoleon, AR--  >25
+10. 1882 -- Dec 06, steamer Morning Star flue collapse/boiler bursts, MS Riv., below N.O., LA--15-17
+16. 1914 -- May 11, steamer Jefferson boiler tubes burst, scalding, off Cape Henry, VA  --     11
+MARITIME Disasters -- Boiler Flue Collapse/Steam Release Subset  -- Chronological
+3. 1840 -- Nov 07, steamboat Persian boiler flue collapse, MS River, near Napoleon, AR--  >25
+12. 1854 -- Mar 13, steamer Reindeer, boiler flue collapse, Ohio River, Cannelton, IN   --40-46
+Flues are inside of boilers, and when one or more collapse, hot scalding steam is released. Often this led to an
+“explosion” of a boiler, but a boiler does not necessarily need to “explode” for this to take place, thus the
+separation of flue collapse and boiler explosions. This, however, is a blurry distinction.
+In that the boiler exploded when the flues collapsed, causing damage and injury, we cross-list in Explosions.
+14. 1882 -- Dec 06, steamer Morning Star flue collapse/boiler bursts, MS Riv., below N.O., LA--15-17
+Steam Boiler Flue Collapse and Steam Releases/Scalding (continued):
+17. 1914 -- May 11, steamer Jefferson boiler tubes burst, scalding, off Cape Henry, VA  --     11
+109. 1847 -- Dec 20, steamer Westwood hits bank in fog, boilers explode, below New Orleans LA
+Cross-listed in Fog as a Contributing Factor and in boiler explosions -- was thought boilers would not have
+1. 1865 -- Apr 27, steamer Sultana boiler explos./fire, MS. Riv., Redman Point, AR -1,547-1,947
+10. 1858 -- Jun 13, Pennsylvania boiler explos./fire, MS River, Ship Isl., Hardin Pt., AR--60-160
+12. 1849 -- Nov 15, steamboat Louisiana boilers explode, sinks, New Orleans, LA         --86-150
+13. 1838 -- June 14, sidewheel Pulaski boiler explodes/sinks SE of New River Inlet, NC--95-141
+17. 1871 -- July 30, Staten Island ferry Westfield II  boiler explosion, NY Harbor, NY  --106-125
+18. 1864 -- Sep 5, steamer Washoe boiler explos., Sacramento Riv., ~10m N. of Rio Vista, CA- 51-103
+31. 1871 -- Jan 28, steamer W. R. Arthur boilers explode, MS riv., Isl. #40 ~Memphis TN --45-66
+32. 1866 -- Jan 30, steamer Missouri boiler explodes/sinks, Ohio River near Newburgh, IN--   65
+33. 1905 -- July 21, USS Bennington gunboat boiler explosion, San Diego, CA    --60-65
+36. 1864 -- Nov 12, Navy gunboat Tulip boiler explosion, Ragged Point, MD     --49-61
+40. 1838 -- Nov 25, General Brown boiler explosion, Mississippi River, Helena, AR    --30-60
+43. 1866 -- May 31, City of Memphis boiler explosion/fire, MS River off Buck Island AR--11-~60
+50. 1837 -- Dec 27, Black Hawk Boiler Explos./Fire, MS River, Black Hawk Pt., LA    --30-50
+69. 1850 -- Apr 22, Belle of the West, fire / boiler explos.?, OH River, ~Warsaw, KY
+73. 1868 -- Mar 18, Magnolia boiler explosion/fire, OH Riv. ~Cincinnati Oh & California Ky-- 35
+One report was of a boiler explosion above New Orleans, another in Natchez MS, one which notes only MS
+79. 1828 -- May, Car of Commerce boiler explosion, Miss. River, 110m so. Ohio River  --     30
+83. 1848 -- Jan 09, Blue Ridge boiler explosion, OH River, Raccoon Island, ~Gallipolis OH--15-30
+85. 1852 -- Nov 12, Buckeye Belle boiler explosion, Muskingum River, Beverly canal, OH--    30
+89. 1873 -- Aug 22, George C. Wolfe boiler explosion, MS Ri., St Francis Is. ~Helena AR -15-30
+90. 1888 -- Feb 27, ferry Julia boiler explosion/fire, Carquinez Strait, South Vallejo, CA  --     30
+95. 1901 -- Aug 28, City of Trenton boiler explosion, Delaware River near Torresdale, PA --26-28
+107. 1866 -- Aug 6, steamer General Lytle boiler explos. ~Bethlehem IN, OH Riv., KY side --20-24
+110. 1851 -- Sep 21, steamboat James Jackson boilers explode, OH Riv., Shawneetown IL --15-23
+When the flues collapsed due to too much pressure, the boiler exploded, causing destruction, death and injury.
+117. 1850 -- Jan 23, St. Joseph boiler explosion, MS Ri., Islands No 80/81, ~Napoleon AR-8-20
+119. 1851 -- Feb 20, sidewheel ferry St. Louis, boiler explosion, St. Louis, MO    --     20
+120. 1852 -- Jan 14, George Washington boiler explosion/fire, MS Riv., Grand Gulf, MS --16-20
+122. 1854 -- Aug 26, steamboat Timour boilers explode, MO Riv. 3m~Jefferson City, MO --15-20
+123. 1858 -- Jan 28, Fanny Fern boiler explosion/fire, OH Riv., ~Garrison Creek, KY
+124. 1858 -- Feb 17, steamer Magnolia boiler explos., Cape Fear River, White Hall, NC  --11-20
+126. 1876 -- May 17, steamer Pat Cleburne boiler explodes/fire, OH Riv., ~Weston KY, IL shore~20
+127. 1905 -- Jan 03, towboat Defender boiler explosion, Ohio River, ~Huntington, WV   --  9-20
+128. 1913 -- Jan 9, stmr. Jas. T. Staples boilers explode, Tombigbee Riv. ~Bladen Springs AL--15-20
+133. 1847 -- Jan 21, stmr. Phoenix boiler explos.; Phoenix/Manchester deaths; Head of Passes, LA-- 18
+134. 1847 -- May 06, steamboat New Hampshire boiler explos., Ark Riv., Pine Bluff, AR-12-18
+137. 1874 -- Oct 22, steamer Brooklyn boiler explodes/sinks, Detroit Riv. ~Wyandotte MI--13-18
+142. 1882 -- Dec 6, steamer Morning Star flue collapse/boiler bursts, MS Riv., below N.O., LA--15-17
+147. 1849 -- Mar 31, steamer Virginia boiler explodes, sinks, Ohio River, Rush Run, OH--14-16
+150. 1906 -- Dec 19, steamer W.T. Scovell boiler explodes, ~Vicksburg, Gold Dust Lndg. LA--13-16
+158. 1836 -- Dec 19, schooner Dolphin boiler explosion, off St. Johns Bar, FL    --     15
+159. 1847 -- Dec 20, steamer Westwood hits bank in fog, boilers explode, below New Orleans LA--12-15
+171. 1842 -- Feb 19, steam towboat Mohican boiler explodes, MS Ri., New Orleans, LA --10-14
+172. 1857 -- Mar 30, steamer Forest Rose boiler explos., Miss. Riv., near Napoleon, AR  --11-14
+173. 1858 -- Feb 04, Colonel Crossman boiler explosion, fire, Miss. Riv. ~New Madrid MO-- 14
+174. 1862 -- Nov 05, steamer J.H. Dickey grounds IL shore, MS River, boiler explodes  --     14
+180. 1864 -- Oct 17, J.C. Irwin boilers explode, Cumberland Riv., 10m above Eddyville, KY--11-13
+187. 1836 -- Aug 09, steamer Motto boiler explos., Blennerhasset’s Island, OH Riv., WV--     12
+189. 1850 -- Oct 05, Kate Fleming boiler explosion/fire, Ohio River, Walker’s Bar, KY   --11-12
+190. 1855 -- Apr 20, propeller Oregon boiler explodes/sinks, Detroit River ~Belle Isle, MI--   12
+193. 1864 -- Aug 10, propeller Racine boiler explosion, Lake Erie, off Rondeau, Ontario --     12
+197. 1830 -- Apr 18, stmr. Caledonia boiler explosion,, MS Riv., ~9m below New Madrid, MO--10-11
+202. 1868 -- May 01, steamer Governor Cushman boiler explodes, Lake Erie, Buffalo, NY--   11
+204. 1904 -- May 26, towboat Fred Wilson, boiler explosion, W. Louisville, KY   --     11
+211. 1838 -- Dec 3, stmr. Augusta boiler explosion, Miss. River ~11m north of Natchez, MS--10
+212. 1839 -- Nov 18, Wilmington boiler explosion, MS Riv., ~AR Riv. and Napoleon, AR--6-10
+213. 1845 -- Feb 8, stmr. Siren boiler explodes, Apalachicola Riv., below Chattahoochee, FL-10
+215. 1864 -- Nov 26, sternwheel Sophie McLane boiler explosion, Suisan City dock, CA --   >10
+221. 1896 -- May 10, Harry Brown boiler explosion, Miss. River, near Ursina Landing, MS-- 10
+country. We speculate there may have been some confusion between this reported event and the boiler
+sixty persons lost their lives...” when the David White boilers exploded. (Cincinnati Commercial. “River and
+50. 1850 -- Apr 22, Belle of the West, fire/boiler explosion?, OH River, ~Warsaw, KY
+85. 1858 -- Jan 28, Fanny Fern boiler explosion/fire, OH Riv. near Garrison Creek, KY
+Cross-listed in Maritime Explosions. Boiler exploded, killing and mortally scalding several. Others drowned
+were shaken down and burst. Oil hitting the boiler ignited, thus causing the fire. The storm also hindered escape
+206. 1934 -- Dec 27, boiler explosion, engine hauling mine workers, McDunn, WV
+292. 1885 -- Aug 11, gas from boiler fire, West End Coal Mine, Mocanaqua, PA --     12
+29. 1885 -- Aug 11, gas from boiler fire, West End Coal Mine, Mocanaqua, PA    --     12
+99.    1912 -- Mar 18, train engine boiler explosion, Southern Pacific Yard, San Antonio, TX-- 26
+169. 1934 -- Dec 27, engine hauling mine workers boiler explosion, , McDunn WV
+230. 1929 -- Aug 18, passenger train derails/boiler bursts, possible sabotage, Henryetta, OK-- 14
+279. 1865 -- Aug 16, passenger train rear-ended by locomotive, boiler bursts ~Bridgeport CT-11
+19. 1865 -- Aug 16, passenger train rear-ended by locomotive, boiler bursts ~Bridgeport CT--  11
+210. 1912 -- Mar 18, train engine boiler explosion, So. Pacific Yard, San Antonio TX
+280. 1929 -- Aug 18, passenger train derails/boiler bursts, possible sabotage, Henryetta, OK-- 14
+287. 1934 -- Dec 27, boiler explosion, engine hauling mine workers, McDunn, WV     --     18
